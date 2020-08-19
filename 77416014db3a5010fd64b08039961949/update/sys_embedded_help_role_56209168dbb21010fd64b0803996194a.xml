@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_487487_bionix_ap.write" name="x_487487_bionix_ap.write">8aa50da0dbb21010fd64b080399619d6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-19 19:09:28</sys_created_on>
+        <sys_id>56209168dbb21010fd64b0803996194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8aa50da0dbb21010fd64b080399619d6</sys_name>
+        <sys_package display_value="Bionix Application " source="x_487487_bionix_ap">77416014db3a5010fd64b08039961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bionix Application ">77416014db3a5010fd64b08039961949</sys_scope>
+        <sys_update_name>sys_embedded_help_role_56209168dbb21010fd64b0803996194a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 19:09:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

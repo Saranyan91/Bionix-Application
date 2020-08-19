@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_bionix_assigned_to" label="Assigned to" language="en" table="x_487487_bionix_ap_bionixusecasetable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_bionix_assigned_to</element>
+            <help/>
+            <hint/>
+            <label>Assigned to</label>
+            <language>en</language>
+            <name>x_487487_bionix_ap_bionixusecasetable</name>
+            <plural>Assigned to</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:45:58</sys_created_on>
+            <sys_id>498891ecdbb21010fd64b08039961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assigned to</sys_name>
+            <sys_package display_value="Bionix Application " source="x_487487_bionix_ap">77416014db3a5010fd64b08039961949</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bionix Application ">77416014db3a5010fd64b08039961949</sys_scope>
+            <sys_update_name>sys_documentation_x_487487_bionix_ap_bionixusecasetable_u_bionix_assigned_to_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:45:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

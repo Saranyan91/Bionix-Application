@@ -4,167 +4,237 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>85242894db3a5010fd64b0803996198b</sys_id>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>88a99decdbb21010fd64b080399619d2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
+            <element>u_reference_affected_user</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>8d242894db3a5010fd64b0803996198b</sys_id>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>0ca99decdbb21010fd64b080399619d2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cmdb_ci</element>
+            <element>location</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>01242894db3a5010fd64b0803996198c</sys_id>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>8ca99decdbb21010fd64b080399619d2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
+            <element>contact_type</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>81242894db3a5010fd64b0803996198c</sys_id>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>00a99decdbb21010fd64b080399619d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>05242894db3a5010fd64b0803996198c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>85242894db3a5010fd64b0803996198c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>6</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>09242894db3a5010fd64b0803996198c</sys_id>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>80a99decdbb21010fd64b080399619d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>parent</element>
-            <position>7</position>
+            <element>cmdb_ci</element>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>89242894db3a5010fd64b0803996198c</sys_id>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>04a99decdbb21010fd64b080399619d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>84a99decdbb21010fd64b080399619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>08a99decdbb21010fd64b080399619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bionix_opened_group</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>88a99decdbb21010fd64b080399619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bionix_category</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>0ca99decdbb21010fd64b080399619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>8ca99decdbb21010fd64b080399619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>00a99decdbb21010fd64b080399619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bionix_assignment_group</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>80a99decdbb21010fd64b080399619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bionix_assigned_to</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>04a99decdbb21010fd64b080399619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>0d242894db3a5010fd64b0803996198c</sys_id>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>84a99decdbb21010fd64b080399619d4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>9</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>8d242894db3a5010fd64b0803996198c</sys_id>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>08a99decdbb21010fd64b080399619d4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>10</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>01242894db3a5010fd64b0803996198d</sys_id>
+            <sys_created_on>2020-08-19 19:50:49</sys_created_on>
+            <sys_id>88a99decdbb21010fd64b080399619d4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-08-18 21:18:40</sys_created_on>
-            <sys_id>81242894db3a5010fd64b0803996198d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_487487_bionix_ap_bionixusecasetable" sys_domain="global" view="Default view">09242894db3a5010fd64b08039961989</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-08-18 21:18:40</sys_updated_on>
+            <sys_updated_on>2020-08-19 19:50:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

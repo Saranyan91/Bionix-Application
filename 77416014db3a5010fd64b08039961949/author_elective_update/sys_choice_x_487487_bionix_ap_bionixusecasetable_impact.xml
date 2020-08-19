@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="impact" table="x_487487_bionix_ap_bionixusecasetable" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>impact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Global</label>
+            <language>en</language>
+            <name>x_487487_bionix_ap_bionixusecasetable</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:46:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e18891ecdbb21010fd64b080399619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:46:00</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>impact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - Local</label>
+            <language>en</language>
+            <name>x_487487_bionix_ap_bionixusecasetable</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:46:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>718891ecdbb21010fd64b080399619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:46:00</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>impact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Regional</label>
+            <language>en</language>
+            <name>x_487487_bionix_ap_bionixusecasetable</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:46:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d8891ecdbb21010fd64b080399619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:46:00</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <name>x_487487_bionix_ap_bionixusecasetable</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 19:46:00</sys_created_on>
+            <sys_id>2d8891ecdbb21010fd64b080399619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>impact</sys_name>
+            <sys_package display_value="Bionix Application " source="x_487487_bionix_ap">77416014db3a5010fd64b08039961949</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bionix Application ">77416014db3a5010fd64b08039961949</sys_scope>
+            <sys_update_name>sys_choice_x_487487_bionix_ap_bionixusecasetable_impact</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 19:46:00</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
