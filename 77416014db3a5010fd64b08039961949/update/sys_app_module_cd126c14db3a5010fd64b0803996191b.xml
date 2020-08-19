@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Workspace Experience">81a6ba9b530233004cb4ddeeff7b1258</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Bionix Application  ➚</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>101</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>x/487487/workspace/bionix_application</query>
+        <report/>
+        <roles>x_487487_bionix_ap.bionix_app_admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 21:09:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd126c14db3a5010fd64b0803996191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bionix Application  ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Bionix Application " source="x_487487_bionix_ap">77416014db3a5010fd64b08039961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bionix Application ">77416014db3a5010fd64b08039961949</sys_scope>
+        <sys_update_name>sys_app_module_cd126c14db3a5010fd64b0803996191b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 21:09:40</sys_updated_on>
+        <timeline_page/>
+        <title>Bionix Application  ➚</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Bionix Application </window_name>
+    </sys_app_module>
+</record_update>

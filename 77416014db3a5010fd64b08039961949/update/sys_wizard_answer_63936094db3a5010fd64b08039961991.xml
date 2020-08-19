@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>BionixUseCaseTable</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>BionixUseCaseTable</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">1b58ceb7db221010fd64b0803996197d</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 21:16:23</sys_created_on>
+        <sys_id>63936094db3a5010fd64b08039961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BionixUseCaseTable</sys_name>
+        <sys_package display_value="Bionix Application " source="x_487487_bionix_ap">77416014db3a5010fd64b08039961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bionix Application ">77416014db3a5010fd64b08039961949</sys_scope>
+        <sys_update_name>sys_wizard_answer_63936094db3a5010fd64b08039961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 21:16:23</sys_updated_on>
+        <table/>
+        <target_url>x_487487_bionix_ap_bionixusecasetable.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

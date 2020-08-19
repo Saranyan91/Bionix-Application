@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">5358ceb7db221010fd64b0803996197b</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 21:16:23</sys_created_on>
+        <sys_id>e7936094db3a5010fd64b0803996199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Bionix Application " source="x_487487_bionix_ap">77416014db3a5010fd64b08039961949</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 21:16:23</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
