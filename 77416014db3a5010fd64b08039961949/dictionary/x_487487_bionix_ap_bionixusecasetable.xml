@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="BionixUseCaseTable" max_length="40" name="x_487487_bionix_ap_bionixusecasetable" sizeclass="0" type="collection">
+    <element audit="true" extends="task" label="BionixUseCaseTable" max_length="40" name="x_487487_bionix_ap_bionixusecasetable" sizeclass="0" type="collection">
         <element attributes="encode_utf8=false" label="Opened by Group" mandatory="true" max_length="32" name="bionix_opened_group" reference="sys_user_group" type="reference"/>
         <element attributes="encode_utf8=false" label="Assigned to" max_length="32" name="u_bionix_assigned_to" reference="sys_user" type="reference"/>
         <element attributes="encode_utf8=false" label="Assignment Group" max_length="32" name="u_bionix_assignment_group" reference="sys_user_group" type="reference"/>
